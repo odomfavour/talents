@@ -15,7 +15,7 @@ body {
 .signup-img {
     display: block;
     background-size: 100% auto cover;
-    background-image: url(../../img/admin\ signup.svg);
+    background-image: url(../../img/admin\ signup.png);
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -50,7 +50,7 @@ body {
 /* input::placeholder {
     font-size: 16px;
     color: rgba(178, 178, 178, 0.58); */
-}
+/* } */
 
 ::-webkit-input-placeholder { 
     font-size: 16px;
