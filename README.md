@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # TalentPool
 
 Please before you push your codes to the repository make sure you pull from the repository, so the changes that have been made can be reflected on your local machine, for us to avoid merge conflicts use the git command line
@@ -103,3 +104,6 @@ And if your commit is just a simple thing, then make the message very short, but
 
 ### Happy hacking!!!!
 
+=======
+# talents
+>>>>>>> 01f775c3f8430ac305a3ffdda078a660e62e8cdd
