@@ -44,7 +44,11 @@ body {
 }
 
 .intern-other {
-  margin: auto 13%;
+  margin: auto 10%;
+}
+
+.intern-other p {
+  font-size: 14px;
 }
 
 .section-title {
@@ -103,7 +107,7 @@ input, textarea {
     border: 1px solid #337AB7 !important;
 }
 
-#body__click {
+#main-section {
   width: calc(100% - 234px);
   float: right;
 }
@@ -129,7 +133,7 @@ input[type="file"] {
 }
 
 @media only screen and (max-width: 991px) {
-  #body__click {
+  #main-section {
    width: 100%;
   }
   .bio {
